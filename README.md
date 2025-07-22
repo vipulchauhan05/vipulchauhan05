@@ -1,32 +1,53 @@
-# 👋 Hi, I'm Vipul Chauhan
+# 👋 Hello, I'm Vipul Singh Chauhan
 
-💻 Passionate Developer | Problem Solver | Tech Enthusiast
-
----
-
-## 🚀 About Me
-
-- 🌱 Learning: Full Stack Web Development
-- 🔭 Currently working on personal projects
-- 📫 Email: vipulchauhan@example.com
-- 🔗 LinkedIn: [linkedin.com/in/vipulchauhan05](https://www.linkedin.com/in/vipulchauhan05)
+💼 Experienced in data entry, online affiliate sales, and government digital projects  
+🖥️ Skilled in MS Office, Photoshop, and basic computer operations  
+🎯 Looking for opportunities in IT support, data handling, or digital operations roles
 
 ---
 
-## 🛠️ My Skills
+## 🧑‍💻 About Me
 
-- HTML, CSS, JavaScript
-- React.js, Node.js, Express
-- MongoDB, Git, GitHub
+- 📌 From: India  
+- 📚 Computer Basics: Word, Excel, PowerPoint, Photoshop  
+- 🛠️ Work Experience:
+  - Data entry and documentation
+  - Affiliate sales & marketing
+  - Digital service delivery via Common Service Centers (CSC)
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Skills
 
-![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipulchauhan05&show_icons=true&theme=tokyonight)
+- ✅ MS Excel, MS Word, PowerPoint  
+- ✅ Photoshop (basic editing/design)  
+- ✅ Internet browsing, data handling, online form filling  
+- ✅ Affiliate sales & marketing  
+- ✅ Hindi & English typing  
+- ✅ CSC Portal work
+
+---
+
+## 🚀 Projects & Work Experience
+
+| Project | Description |
+|--------|-------------|
+| ☀️ **Solar Project** | Assisted in data entry and beneficiary enrollment under rural solar schemes |
+| 🏥 **Ayushman Bharat Project** | Registered citizens and verified documents for government health schemes |
+| 🧾 **Samagra Mission** | Worked on updating citizen data and verification under MP government mission |
+| 🏆 **CSC Olympiad** | Promoted and conducted exams via Common Service Center (CSC) platform |
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [singvipul40@gmail.com](mailto:singvipul40@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/vipul-singh-chauhan-06570922a](https://www.linkedin.com/in/vipul-singh-chauhan-06570922a)
 
 ---
 
 ## ✨ Fun Fact
 
-Main code likhne ke saath cricket ka bhi deewana hoon! 🏏
+💬 I love working on government tech projects that help real people.  
+🧠 Quick learner & always ready to explore new tech.
+
